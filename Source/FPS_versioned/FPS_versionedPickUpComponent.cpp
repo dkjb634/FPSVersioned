@@ -5,7 +5,7 @@
 UFPS_versionedPickUpComponent::UFPS_versionedPickUpComponent()
 {
 	// Setup the Sphere Collision
-	SphereRadius = 32.f;
+	SphereRadius = 33.f;
 }
 
 void UFPS_versionedPickUpComponent::BeginPlay()
